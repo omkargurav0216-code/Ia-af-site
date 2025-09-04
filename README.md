@@ -32,7 +32,7 @@ Imperial-Attire/
 ---
 
 ##  Live Demo
-👉 [View Demo Here](https://omkargurav0216-code.github.io/Ia-af-site/) :- https://omkargurav0216-code.github.io/Movies-UI-Clone/
+👉 [View Demo Here](https://omkargurav0216-code.github.io/Ia-af-site/) :- [https://omkargurav0216-code.github.io/Ia-af-site/](https://omkargurav0216-code.github.io/Ia-af-site/)
 
 ---
 
