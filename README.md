@@ -1,0 +1,2 @@
+# Ia-af-site
+Imperial Attire is a luxury-themed black and gold fashion storefront designed for affiliate marketing. It showcases premium fashion products such as tees, jeans, sneakers, jackets, handbags, and dresses. The site features an elegant hero section, responsive product grids, interactive hover effects, and affiliate-ready “Buy Now” and “View Deal” buttons. Optimized for both desktop and mobile, it provides a sleek shopping experience while maintaining affiliate compliance with a built-in disclaimer.
