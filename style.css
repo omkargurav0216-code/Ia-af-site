@@ -261,6 +261,34 @@ header .container{
     margin-top: 15px;
 }
 
+#toast {
+    visibility: hidden;
+    min-width: 260px;
+    background: #000;
+    color: #ffd700;
+    text-align: center;
+    border-radius: 10px;
+    padding: 14px 20px;
+    position: fixed;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1000;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    border: 2px solid #ffd700;
+    box-shadow: 0 4px 20px rgba(255, 215, 0, 0.4);
+    opacity: 0;
+    transition: opacity 0.5s, bottom 0.5s;
+}
+#toast.show{
+    visibility: visible;
+    opacity: 1;
+    bottom: 50px;
+}
+
 @media (max-width: 768px) {
     .header .container {
         flex-direction: column;
